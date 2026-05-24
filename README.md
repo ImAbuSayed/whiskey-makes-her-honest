@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whiskey-makes-her-honest/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Whiskey Makes Her Honest](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-makes-her-honest/) |
+| **Get License** | [License this song: Whiskey Makes Her Honest](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-makes-her-honest/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> They say whiskey makes her honest when the midnight falls
+> And you're tracing little circles on the tavern walls
+> You let your guard down when the amber starts to pour
+> Giving me the sensual look I've been longing for
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
