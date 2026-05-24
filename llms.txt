@@ -15,7 +15,7 @@
 | **Written On** | May 19, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/whiskey-makes-her-honest/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for Whiskey Makes Her Honest](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-makes-her-honest/) |
+| **Get License** | [License this song: Whiskey Makes Her Honest](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/whiskey-makes-her-honest/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -39,6 +39,12 @@
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
+
+---
+
+## 🔗 Song Links
+
+- [Telegram](https://t.me/AbuSayedMusic/2010)
 
 ---
 
